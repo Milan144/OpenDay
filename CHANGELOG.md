@@ -1,3 +1,15 @@
+# [1.2.0](https://github.com/Milan144/OpenDay/compare/v1.1.0...v1.2.0) (2024-10-16)
+
+
+### Features
+
+* nouvelle version ([c5d1d99](https://github.com/Milan144/OpenDay/commit/c5d1d995f5c5fb22c9f0426897a9cb500bde1b04))
+
+
+### BREAKING CHANGES
+
+* Description des changements non rétrocompatibles
+
 # [1.1.0](https://github.com/Milan144/OpenDay/compare/v1.0.0...v1.1.0) (2024-10-16)
 
 
