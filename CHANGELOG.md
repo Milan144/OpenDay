@@ -1,3 +1,16 @@
+# [1.3.0](https://github.com/Milan144/OpenDay/compare/v1.2.0...v1.3.0) (2024-10-16)
+
+
+### Features
+
+* ajout d'une nouvelle fonctionnalité ([8ae7836](https://github.com/Milan144/OpenDay/commit/8ae7836728d9761d4e5a937cce0295dd04afc93e))
+* suppression d'une ancienne API ([3f57adb](https://github.com/Milan144/OpenDay/commit/3f57adbcb7e8b4e1a37f140379904aaa0234fcdc))
+
+
+### BREAKING CHANGES
+
+* suppression de l'ancien endpoint /v1/old-endpoint
+
 # [1.2.0](https://github.com/Milan144/OpenDay/compare/v1.1.0...v1.2.0) (2024-10-16)
 
 
