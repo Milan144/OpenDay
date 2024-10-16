@@ -1,3 +1,10 @@
+# [3.1.0](https://github.com/Milan144/OpenDay/compare/v3.0.0...v3.1.0) (2024-10-16)
+
+
+### Features
+
+* nouvelle version mineure ([5621383](https://github.com/Milan144/OpenDay/commit/562138305e9b1a131092c3ac74fd655d5c260ba0))
+
 # [3.0.0](https://github.com/Milan144/OpenDay/compare/v2.0.0...v3.0.0) (2024-10-16)
 
 
