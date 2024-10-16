@@ -1,3 +1,20 @@
+# [1.1.0](https://github.com/Milan144/OpenDay/compare/v1.0.0...v1.1.0) (2024-10-16)
+
+
+### Bug Fixes
+
+* suppression des routes soustraction et multiplication ([9a8c928](https://github.com/Milan144/OpenDay/commit/9a8c928b3ad1dc20773f5430e319df2445ef8947))
+
+
+### Features
+
+* ajout d'une route qui retourne le top 10 des musiques sur spotify ([5799b89](https://github.com/Milan144/OpenDay/commit/5799b8946ae2f73fe0eb615cc524a6ca3b75ca88))
+
+
+### BREAKING CHANGES
+
+* ajout de dépendances
+
 # 1.0.0 (2024-10-16)
 
 
