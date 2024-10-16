@@ -10,5 +10,7 @@
       "automerge": true
     }
   ],
-  "dependencyDashboard": true
+  "dependencyDashboard": true,
+  "automerge": true,
+  "prConcurrentLimit": 5
 }
