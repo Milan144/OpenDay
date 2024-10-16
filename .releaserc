@@ -4,14 +4,7 @@
     ["@semantic-release/commit-analyzer", {
       "preset": "conventionalcommits",
       "releaseRules": [
-        { "type": "feat", "release": "major" }
-      ]
-    }],
-    "@semantic-release/release-notes-generator",
-    "@semantic-release/changelog",
-    "@semantic-release/github",
-    "@semantic-release/git",
-    "releaseRules": [
+        { "type": "feat", "release": "major" },
         { "type": "chore", "release": false },
         { "type": "docs", "release": false },
         { "type": "style", "release": false },
@@ -20,5 +13,10 @@
         { "type": "fix", "release": "patch" },
         { "type": "feat", "release": "minor" }
       ]
+    }],
+    "@semantic-release/release-notes-generator",
+    "@semantic-release/changelog",
+    "@semantic-release/github",
+    "@semantic-release/git"
   ]
 }
