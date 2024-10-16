@@ -12,5 +12,10 @@ def subtraction():
     result = 5 - 1
     return jsonify({"5-1 = ": result})
 
+@app.route('/multiplication', methods=['GET'])
+def multiplication():
+    result = 5 * 5
+    return jsonify({"5*5 = ": result})
+
 if __name__ == '__main__':
     app.run(host='0.0.0.0', port=5000)
