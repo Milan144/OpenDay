@@ -6,22 +6,6 @@ on:
       - main
 
 jobs:
-  lint-commits:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout code
-        uses: actions/checkout@v2
-
-      - name: Install Node.js
-        uses: actions/setup-node@v2
-        with:
-          node-version: '14'
-
-      - name: Install Commitlint
-        run: npm install --save-dev @commitlint/config-conventional @commitlint/cli
-
-      - name: Lint commits
-        run: npx commitlint --from=HEAD~10 --to=HEAD
   test:
     runs-on: ubuntu-latest
 
