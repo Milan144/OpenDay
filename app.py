@@ -68,7 +68,6 @@ def get_top_tracks():
 
     return top_tracks
 
-
 @app.route('/', methods=['GET'])
 def top_songs():
     """
