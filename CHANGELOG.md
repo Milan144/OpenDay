@@ -1,3 +1,10 @@
+## [3.1.1](https://github.com/Milan144/OpenDay/compare/v3.1.0...v3.1.1) (2024-11-29)
+
+
+### Bug Fixes
+
+* test fix ([3a42a54](https://github.com/Milan144/OpenDay/commit/3a42a546f07517cfd573801a348471a8188accd4))
+
 # [3.1.0](https://github.com/Milan144/OpenDay/compare/v3.0.0...v3.1.0) (2024-10-16)
 
 
