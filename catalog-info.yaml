@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: OpenDay
+  description: Projet OpenDay
+  tags:
+    - openday
+spec:
+  type: service
+  lifecycle: production
+  owner: Milan
+
