@@ -1,3 +1,10 @@
+# [3.2.0](https://github.com/Milan144/OpenDay/compare/v3.1.1...v3.2.0) (2024-11-29)
+
+
+### Features
+
+* add backstage ([88b3162](https://github.com/Milan144/OpenDay/commit/88b3162899eb33ad2119f4b8d34f9fa75f519043))
+
 ## [3.1.1](https://github.com/Milan144/OpenDay/compare/v3.1.0...v3.1.1) (2024-11-29)
 
 
