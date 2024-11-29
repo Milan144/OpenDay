@@ -3,6 +3,7 @@ from flask import Flask, jsonify
 import os
 from dotenv import load_dotenv
 
+
 # Charger les variables d'environnement depuis le fichier .env
 load_dotenv()
 app = Flask(__name__)
